@@ -1,2 +1,3 @@
-mini_messenger/.idea
-mini_messenger/db.sqlite3
+.idea
+db.sqlite3
+__pycache__
